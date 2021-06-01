@@ -8,6 +8,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
   String a = "Mantosh";
   String b = "Shiva";
+  String c = "Ganesh";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
