@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-  String a = "Mantosh";
+  String a = "Vishnu";
   String b = "Shiva";
   String c = "Ganesh";
   String D = "Kartike";
