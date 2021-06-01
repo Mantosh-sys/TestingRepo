@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
   String b = "Shiva";
   String c = "Ganesh";
   String D = "Kartike";
-  int a =1;
+  int d =1;
+  int e = 2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
