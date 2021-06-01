@@ -10,10 +10,11 @@ public class MainActivity extends AppCompatActivity {
   String b = "Shiva";
   String c = "Ganesh";
   String D = "Kartike";
+  int a =1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        
+       
     }
 }
